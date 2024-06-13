@@ -1,8 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Cinema Movies
+Cinema movies app is a responsive web app that allows you to browse movie categories, find your favorite films, and instantly watch trailers by clicking on them.
+
+## Frameworks Used
+* React.js 18
+* Material UI (MUI)
+* Tailwind CSS
+* Recoil
+* Next.js 14
+* TypeScript
+
+## Screenshots
+
+#![Screenshot1](https://github.com/naseem-shawarba/Projects_Screenshots/blob/main/Cinema_Movies/Screenshot1.png)
+
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-First, run the development server:
+If you want to clone the repo and run the app locally, you need to obtain an API key from <a href="https://developer.themoviedb.org/docs/getting-started">TMDB API</a>. After obtaining the key, create a file named .env.local in the root directory of the project and add the API key within double quotes as follows:
+```bash
+NEXT_PUBLIC_API_KEY="<KEYGOESHERE>"
+```
+
+After setting up the .env.local file, you can use the following commands to run the app in development mode or build the app for production:
 
 ```bash
 npm run dev
