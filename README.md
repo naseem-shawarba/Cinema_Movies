@@ -11,7 +11,7 @@ Cinema movies app is a responsive web app that allows you to browse movie catego
 
 ## Screenshots
 
-#![Screenshot1](https://github.com/naseem-shawarba/Projects_Screenshots/blob/main/Cinema_Movies/Screenshot1.png)
+![Screenshot1](https://github.com/naseem-shawarba/Projects_Screenshots/blob/main/Cinema_Movies/Screenshot1.png)
 
 
 ## Getting Started
