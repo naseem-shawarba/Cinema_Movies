@@ -37,8 +37,8 @@ export default function Home({
       { title: 'Comedies', movies: comedyMovies },
       { title: 'Action movies', movies: actionMovies },
       { title: 'Scary movies', movies: horrorMovies },
-      { title: 'Romence movies', movies: romanceMovies },
-      { title: 'Documentaries', movies: documentaries },
+      // { title: 'Romence movies', movies: romanceMovies },
+      // { title: 'Documentaries', movies: documentaries },
     ];
   }, []);
   const showModal = useRecoilValue(modalState)
